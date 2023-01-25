@@ -4,3 +4,4 @@
 * 특정 버전을 생성하기 git commit
 * 원격 저장소의 master 브랜치에 올리기 git push origin master
 * source three test
+* bug fix in dev/login
